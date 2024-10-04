@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CppProject\\Project3_CRRS\\CRRS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|D:\\CppProject\\Project3_CRRS\\CRRS\\teacher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|solutionrelative:teacher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|D:\\CppProject\\Project3_CRRS\\CRRS\\student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|solutionrelative:student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|D:\\CppProject\\Project3_CRRS\\CRRS\\orderFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|solutionrelative:orderFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|D:\\CppProject\\Project3_CRRS\\CRRS\\Manage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|solutionrelative:Manage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|D:\\CppProject\\Project3_CRRS\\CRRS\\CRRS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|solutionrelative:CRRS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|D:\\CppProject\\Project3_CRRS\\CRRS\\admin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|solutionrelative:admin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|D:\\CppProject\\Project3_CRRS\\CRRS\\teacher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|solutionrelative:teacher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|D:\\CppProject\\Project3_CRRS\\CRRS\\student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|solutionrelative:student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|D:\\CppProject\\Project3_CRRS\\CRRS\\orderFile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|solutionrelative:orderFile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|D:\\CppProject\\Project3_CRRS\\CRRS\\Manage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|solutionrelative:Manage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|D:\\CppProject\\Project3_CRRS\\CRRS\\Identity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|solutionrelative:Identity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|D:\\CppProject\\Project3_CRRS\\CRRS\\globalFile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|solutionrelative:globalFile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|D:\\CppProject\\Project3_CRRS\\CRRS\\computerRoom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|solutionrelative:computerRoom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|D:\\CppProject\\Project3_CRRS\\CRRS\\admin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{822C661C-7B75-4C38-8465-19FC41FF2E6B}|CRRS.vcxproj|solutionrelative:admin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "student.h",
+              "DocumentMoniker": "D:\\CppProject\\Project3_CRRS\\CRRS\\student.h",
+              "RelativeDocumentMoniker": "student.h",
+              "ToolTip": "D:\\CppProject\\Project3_CRRS\\CRRS\\student.h",
+              "RelativeToolTip": "student.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-03T07:55:44.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "teacher.h",
+              "DocumentMoniker": "D:\\CppProject\\Project3_CRRS\\CRRS\\teacher.h",
+              "RelativeDocumentMoniker": "teacher.h",
+              "ToolTip": "D:\\CppProject\\Project3_CRRS\\CRRS\\teacher.h",
+              "RelativeToolTip": "teacher.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-03T08:06:05.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "admin.cpp",
+              "DocumentMoniker": "D:\\CppProject\\Project3_CRRS\\CRRS\\admin.cpp",
+              "RelativeDocumentMoniker": "admin.cpp",
+              "ToolTip": "D:\\CppProject\\Project3_CRRS\\CRRS\\admin.cpp",
+              "RelativeToolTip": "admin.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T13:26:35.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CRRS.cpp",
+              "DocumentMoniker": "D:\\CppProject\\Project3_CRRS\\CRRS\\CRRS.cpp",
+              "RelativeDocumentMoniker": "CRRS.cpp",
+              "ToolTip": "D:\\CppProject\\Project3_CRRS\\CRRS\\CRRS.cpp",
+              "RelativeToolTip": "CRRS.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T05:17:48.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manage.cpp",
+              "DocumentMoniker": "D:\\CppProject\\Project3_CRRS\\CRRS\\Manage.cpp",
+              "RelativeDocumentMoniker": "Manage.cpp",
+              "ToolTip": "D:\\CppProject\\Project3_CRRS\\CRRS\\Manage.cpp",
+              "RelativeToolTip": "Manage.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-04T02:54:57.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "student.cpp",
+              "DocumentMoniker": "D:\\CppProject\\Project3_CRRS\\CRRS\\student.cpp",
+              "RelativeDocumentMoniker": "student.cpp",
+              "ToolTip": "D:\\CppProject\\Project3_CRRS\\CRRS\\student.cpp",
+              "RelativeToolTip": "student.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T07:55:54.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "orderFile.cpp",
+              "DocumentMoniker": "D:\\CppProject\\Project3_CRRS\\CRRS\\orderFile.cpp",
+              "RelativeDocumentMoniker": "orderFile.cpp",
+              "ToolTip": "D:\\CppProject\\Project3_CRRS\\CRRS\\orderFile.cpp",
+              "RelativeToolTip": "orderFile.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-04T07:12:16.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "teacher.cpp",
+              "DocumentMoniker": "D:\\CppProject\\Project3_CRRS\\CRRS\\teacher.cpp",
+              "RelativeDocumentMoniker": "teacher.cpp",
+              "ToolTip": "D:\\CppProject\\Project3_CRRS\\CRRS\\teacher.cpp",
+              "RelativeToolTip": "teacher.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T08:05:54.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "orderFile.h",
+              "DocumentMoniker": "D:\\CppProject\\Project3_CRRS\\CRRS\\orderFile.h",
+              "RelativeDocumentMoniker": "orderFile.h",
+              "ToolTip": "D:\\CppProject\\Project3_CRRS\\CRRS\\orderFile.h",
+              "RelativeToolTip": "orderFile.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-04T07:12:02.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Manage.h",
+              "DocumentMoniker": "D:\\CppProject\\Project3_CRRS\\CRRS\\Manage.h",
+              "RelativeDocumentMoniker": "Manage.h",
+              "ToolTip": "D:\\CppProject\\Project3_CRRS\\CRRS\\Manage.h",
+              "RelativeToolTip": "Manage.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-03T08:11:43.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Identity.h",
+              "DocumentMoniker": "D:\\CppProject\\Project3_CRRS\\CRRS\\Identity.h",
+              "RelativeDocumentMoniker": "Identity.h",
+              "ToolTip": "D:\\CppProject\\Project3_CRRS\\CRRS\\Identity.h",
+              "RelativeToolTip": "Identity.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-03T07:49:57.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "globalFile.h",
+              "DocumentMoniker": "D:\\CppProject\\Project3_CRRS\\CRRS\\globalFile.h",
+              "RelativeDocumentMoniker": "globalFile.h",
+              "ToolTip": "D:\\CppProject\\Project3_CRRS\\CRRS\\globalFile.h",
+              "RelativeToolTip": "globalFile.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-03T13:36:50.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "computerRoom.h",
+              "DocumentMoniker": "D:\\CppProject\\Project3_CRRS\\CRRS\\computerRoom.h",
+              "RelativeDocumentMoniker": "computerRoom.h",
+              "ToolTip": "D:\\CppProject\\Project3_CRRS\\CRRS\\computerRoom.h",
+              "RelativeToolTip": "computerRoom.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-04T04:07:26.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "admin.h",
+              "DocumentMoniker": "D:\\CppProject\\Project3_CRRS\\CRRS\\admin.h",
+              "RelativeDocumentMoniker": "admin.h",
+              "ToolTip": "D:\\CppProject\\Project3_CRRS\\CRRS\\admin.h",
+              "RelativeToolTip": "admin.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-03T13:26:13.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿  boss.cpp
+  manager.cpp
+  正在生成代码...
+  employee.cpp
+  EMS.cpp
+  workerManager.cpp
+  正在生成代码...
+LINK : warning LNK4044: 无法识别的选项“/utf-8”；已忽略
+  LINK : 没有找到 D:\CppProject\Project1_EMS\EMS\x64\Debug\EMS.exe 或上一个增量链接没有生成它；正在执行完全链接
+  EMS.vcxproj -> D:\CppProject\Project1_EMS\EMS\x64\Debug\EMS.exe
